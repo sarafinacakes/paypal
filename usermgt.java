@@ -4,3 +4,5 @@ sarah
 wisdom
 debby
 kunle
+manager 
+Attendance 
